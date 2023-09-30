@@ -1,0 +1,118 @@
+header{
+    background-color: aqua;
+    font-size: 2rem;
+
+    
+    }
+
+.type1{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
+}
+
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+}
+
+.type2{
+    text-align: center;
+}
+
+.type3{
+    font-style: italic;
+}
+
+img{
+    border-radius: 80%;
+    width: 10%;
+}
+
+.type4{
+    background-color: aqua;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+    
+}
+
+.type5{
+    text-align: center;
+}
+
+.type6{
+
+    justify-content: space-between;
+    
+    
+    
+}
+
+.contenair{
+    text-align: center;
+}
+
+
+
+.contenair0{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenair1{
+
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    
+}
+
+.experi{
+    background-color: aqua;
+    text-align: center;
+    
+
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+.experi2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    
+    
+}
+
+.contact1{
+
+    text-align: center;
+}
+
+form{
+
+    text-align: center;
+    border: 1px solid black;
+    width: 25%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: aqua;
+    padding: 1%;
+}
+
+.input1{
+    text-align-last: left;
+    padding: 2px;
+}
